@@ -1,0 +1,488 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#logo{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-left:50px;
+	margin-top:5px;
+}
+
+#top-bar{
+	width:100%;
+	height:100px;
+}
+#top-bar1{
+	width:1200px;
+	height:100px;
+	margin:auto;
+}
+
+#theMilkShop{
+	width:470px;
+	height:100px;
+	float:left;
+	margin-left:350px;
+	margin-top:5px;
+	position:absolute;
+}
+
+#navigation-bar{
+	width:100%;
+	height:70px;
+	background:#083a5b;
+	margin-top:30px;
+	float:left;
+}
+
+#navigation-bar1{
+	width:1200px;
+	height:70px;
+	margin:auto;
+}
+
+#home{
+	width:70px;
+	height:70px;
+	margin-left:100px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#products{
+	width:200px;
+	height:70px;
+	margin-left:60px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#gallery{
+	width:80px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#purchase{
+	width:340px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#contact{
+	width:170px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#home:hover,#products:hover,#gallery:hover,#purchase:hover,#contact:hover{
+	color:#ecf2d1;
+}
+
+/*Header end*/
+
+#form-background{
+	width:100%;
+	height:1700px;
+	background-image:url(../images1/contactUs/photo2.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:155px;
+}
+
+#form-background1{
+	width:1200px;
+	height:1700px;
+	margin:auto;
+}
+
+#contact-us{
+	width:400px;
+	height:100px;
+	font-size:70px;
+	margin-left:435px;
+	margin-top:40px;
+	font-family:Cambria Math;
+	color:#b7c7d2;
+	float:left;
+}
+
+#contact-background{
+	width:570px;
+	height:620px;
+	background-image:url(../images1/white.png);
+	margin-left:310px;
+	border-radius:40px;
+	float:left;
+}
+
+#details{
+	width:570px;
+	height:450px;
+	background-image:url(../images1/black.png);
+	margin-left:0px;
+	border-radius:0px;
+	float:left;
+}
+
+#answer{
+	width:400px;
+	height:40px;
+	font-family:Footlight MT Light;
+	font-size:20px;
+	color:#69747c;
+	padding-left:30px;
+	padding-top:20px;
+	margin-top:20px;
+	float:left;
+}
+
+#line{
+	width:600px;
+	height:1px;
+	background:#4c585f;
+	float:left;
+}
+
+#name1{
+	width:500px;
+	height:50px;
+	background:none;
+	background-image:url(../images1/white.png);
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+	font-size:20px;
+	font-family:Cambria Math;
+	padding-left:5px;
+	border:none;
+	box-shadow:5px 5px 20px #5f6a71;
+}
+
+#email1{
+	width:500px;
+	height:50px;
+	background:none;
+	background-image:url(../images1/white.png);
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+	font-size:20px;
+	font-family:Cambria Math;
+	padding-left:5px;
+	border:none;
+	box-shadow:5px 5px 20px #5f6a71;
+}
+
+#phone1{
+	width:500px;
+	height:50px;
+	background:none;
+	background-image:url(../images1/white.png);
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+	font-size:20px;
+	font-family:Cambria Math;
+	padding-left:5px;
+	border:none;
+	box-shadow:5px 5px 20px #5f6a71;
+}
+
+#message{
+	width:500px;
+	height:200px;
+	background:none;
+	background-image:url(../images1/white.png);
+	float:left;
+	margin-left:30px;
+	margin-top:20px;
+	font-size:20px;
+	font-family:Cambria Math;
+	padding-left:5px;
+	padding-top:10px;
+	border:none;
+	box-shadow:5px 5px 20px #5f6a71;
+}
+
+#submit1{
+	width:500px;
+	height:50px;
+	background:none;
+	background-image:url(../images1/black.png);
+	float:left;
+	color:#c4d4df;
+	margin-left:30px;
+	margin-top:30px;
+	font-size:40px;
+	font-family:Cambria Math;
+	padding-left:5px;
+	border:none;
+	box-shadow:5px 5px 20px #5f6a71;
+}
+
+#number1{
+	width:300px;
+	height:400px;
+	background-image:url(../images1/white.png);
+	margin-left:145px;
+	margin-top:100px;
+	float:left;
+	border-radius:30px;
+}
+
+#call-us{
+	width:150px;
+	height:60px;
+	font-family:Candara;
+	font-size:50px;
+	margin-left:85px;
+	margin-bottom:20px;
+	margin-top:20px;
+	float:left;
+}
+
+#manager1{
+	width:280px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:25px;
+	margin-left:15px;
+	float:left;
+	color:#54819f;
+}
+
+#tel{
+	width:280px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:30px;
+	margin-left:15px;
+	margin-top:15px;
+	float:left;
+	color:#0b3f62;
+}
+
+#manager2{
+	width:280px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:25px;
+	margin-left:15px;
+	margin-top:25px;
+	float:left;
+	color:#54819f;
+}
+
+#tel1{
+	width:280px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:30px;
+	margin-left:15px;
+	margin-top:15px;
+	float:left;
+	color:#0b3f62;
+}
+
+/*Send Us*/
+
+#send{
+	width:300px;
+	height:400px;
+	background-image:url(../images1/white.png);
+	margin-left:300px;
+	margin-top:100px;
+	float:left;
+	border-radius:30px;
+	padding-right:10px;
+	padding-left:10px;
+}
+
+#send-us{
+	width:250px;
+	height:60px;
+	font-family:Candara;
+	font-size:50px;
+	margin-left:65px;
+	margin-bottom:5px;
+	margin-top:20px;
+	float:left;
+}
+
+#address{
+	width:280px;
+	height:80px;
+	font-family:Maiandra GD;
+	font-size:25px;
+	margin-left:15px;
+	margin-top:10px;
+	float:left;
+	color:#54819f;
+}
+
+#email-us{
+	width:280px;
+	height:60px;
+	font-family:Candara;
+	font-size:50px;
+	margin-left:15px;
+	margin-bottom:10px;
+	margin-top:20px;
+	float:left;
+}
+
+#email{
+	width:280px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:25px;
+	margin-left:15px;
+	float:left;
+	color:#54819f;
+}
+
+/*Open-Importent*/
+
+#open-importent{
+	width:1000px;
+	height:210px;
+	background-image:url(../images1/white.png);
+	margin-left:90px;
+	margin-top:100px;
+	float:left;
+	border-radius:30px;
+	padding-right:10px;
+	padding-left:10px;
+}
+
+#open{
+	width:935px;
+	height:70px;
+	font-family:Maiandra GD;
+	font-size:25px;
+	margin-left:25px;
+	float:left;
+	color:#85adc8;
+	text-align:center;
+	padding-top:30px;
+}
+
+#importent{
+	width:935px;
+	height:40px;
+	font-family:Maiandra GD;
+	font-size:20px;
+	margin-left:25px;
+	float:left;
+	color:#54819f;
+	text-align:center;
+	padding-top:30px;
+}
+
+/*Footer Start*/
+
+#footer{
+	width:100%;
+	height:420px;
+	background:#ecf2d1;
+	float:left;
+}
+
+#footer1{
+	width:1200px;
+	height:420px;
+	margin:auto;
+}
+
+#facts{
+	width:500px;
+	height:300px;
+}
+
+#company-address{
+	width:500px;
+	height:180px;
+	text-align:center;
+	font-size:20px;
+	margin-top:20px;
+	margin-left:350px;
+	float:left;
+}
+
+#logo1{
+	width:90px;
+	height:90px;
+	margin-left:550px;
+	margin-top:20px;
+	float:left;
+}
+
+#social{
+	width:500px;
+	height:70px;
+	margin-top:30px;
+	margin-left:430px;
+	float:left;
+}
+
+#youtube{
+	width:50px;
+	height:50px;
+	float:left;
+}
+
+#facebook{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+}
+
+#pinterest{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#twitter{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#instagram{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+}

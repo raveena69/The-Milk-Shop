@@ -1,0 +1,325 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#top-bar{
+	width:100%;
+	height:100px;
+}
+#top-bar1{
+	width:1200px;
+	height:100px;
+	margin:auto;
+}
+
+#logo{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-left:50px;
+	margin-top:5px;
+}
+
+#theMilkShop{
+	width:470px;
+	height:100px;
+	float:left;
+	margin-left:350px;
+	margin-top:5px;
+	position:absolute;
+}
+
+#navigation-bar{
+	width:100%;
+	height:70px;
+	background:#083a5b;
+	margin-top:30px;
+	float:left;
+}
+
+#navigation-bar1{
+	width:1200px;
+	height:70px;
+	margin:auto;
+}
+
+#home{
+	width:70px;
+	height:70px;
+	margin-left:100px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#products{
+	width:200px;
+	height:70px;
+	margin-left:60px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#gallery{
+	width:80px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#purchase{
+	width:340px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#contact{
+	width:170px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#home:hover,#products:hover,#gallery:hover,#purchase:hover,#contact:hover{
+	color:#ecf2d1;
+}
+
+/*Header end*/
+
+#page-background{
+	width:100%;
+	height:2150px;
+	background-image:url(../images1/welcome/pix12.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-top:100px;
+}
+
+#page-background1{
+	width:1200px;
+	height:2150px;
+	margin:auto;
+	/*background:red;*/
+}
+
+#welcome{
+	width:770px;
+	height:100px;
+	font-family:Maiandra GD;
+	font-size:90px;
+	float:left;
+	margin-top:30px;
+	margin-left:430px;
+}
+
+#welcome1{
+	width:890px;
+	height:40px;
+	font-family:Century;
+	font-size:40px;
+	float:left;
+	margin-left:90px;
+	margin-top:10px;
+	text-align:center;
+	margin-bottom:20px;
+	color:#55646e;
+}
+
+#content{
+	width:1000px;
+	height:670px;
+	float:left;
+	margin-top:20px;
+	background-image:url(../images1/white.png);
+	border-radius:50px;
+	font-family:Century;
+	font-size:20px;
+	padding:30px;
+	margin-left:70px;
+	text-align:center;
+}
+
+#image-content{
+	width:1200px;
+	height:1000px;
+	float:left;
+}
+
+#image1{
+	width:400px;
+	height:300px;
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+
+#image2{
+	width:400px;
+	height:580px;
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+
+#image3{
+	width:300px;
+	height:230px;
+	margin-left:20px;
+	margin-top:20px;
+	float:left;
+}
+
+#image4{
+	width:300px;
+	height:450px;
+	margin-left:20px;
+	margin-top:15px;
+	float:left;
+}
+
+#image5{
+	width:400px;
+	height:550px;
+	margin-left:20px;
+	margin-top:340px;
+	float:left;
+	position:absolute;
+}
+
+#image6{
+	width:400px;
+	height:580px;
+	margin-left:440px;
+	margin-top:620px;
+	float:left;
+	position:absolute;
+}
+
+#image7{
+	width:400px;
+	height:300px;
+	margin-left:20px;
+	margin-top:900px;
+	float:left;
+	position:absolute;
+}
+
+#image8{
+	width:300px;
+	height:230px;
+	margin-left:860px;
+	margin-top:730px;
+	float:left;
+	position:absolute;
+}
+
+#image9{
+	width:300px;
+	height:230px;
+	margin-left:860px;
+	margin-top:970px;
+	float:left;
+	position:absolute;
+}
+
+/*Footer Start*/
+
+#footer{
+	width:100%;
+	height:420px;
+	background:#ecf2d1;
+	float:left;
+}
+
+#footer1{
+	width:1200px;
+	height:420px;
+	margin:auto;
+}
+
+#facts{
+	width:500px;
+	height:300px;
+}
+
+#company-address{
+	width:500px;
+	height:180px;
+	text-align:center;
+	font-size:20px;
+	margin-top:20px;
+	margin-left:350px;
+	float:left;
+}
+
+#logo1{
+	width:90px;
+	height:90px;
+	margin-left:550px;
+	margin-top:20px;
+	float:left;
+}
+
+#social{
+	width:500px;
+	height:70px;
+	margin-top:30px;
+	margin-left:430px;
+	float:left;
+}
+
+#youtube{
+	width:50px;
+	height:50px;
+	float:left;
+}
+
+#facebook{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+}
+
+#pinterest{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#twitter{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#instagram{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+}

@@ -1,0 +1,25 @@
+Name
+Address
+Contact Number
+Email
+What you want to buy
+Please note, what are the products that you need to buy and the quantity that you need to by from each product
+Chocolate Milk - 2
+Coffee Ice Cream - 6
+Plain Yogurt - 1
+Camembert Cheese - 2 
+Clarified Butter - 3
+Peanut Curd - 1
+
+Payment Details
+
+Payment Method - credit/debit
+Card Number - valid Card Number
+Expiration Date - mm/dd/yyyy
+Security Number - Valid Security Number
+ZIP/Postal Code
+
+We will send full payment details report to your email and please confirm that payment details report to confirm your order.
+
+Reset 
+Take my Order

@@ -1,0 +1,628 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#logo{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-left:50px;
+	margin-top:5px;
+}
+
+#top-bar{
+	width:100%;
+	height:100px;
+}
+#top-bar1{
+	width:1200px;
+	height:100px;
+	margin:auto;
+}
+
+#theMilkShop{
+	width:470px;
+	height:100px;
+	float:left;
+	margin-left:350px;
+	margin-top:5px;
+	position:absolute;
+}
+
+#navigation-bar{
+	width:100%;
+	height:70px;
+	background:#083a5b;
+	margin-top:30px;
+	float:left;
+}
+
+#navigation-bar1{
+	width:1200px;
+	height:70px;
+	margin:auto;
+}
+
+#home{
+	width:70px;
+	height:70px;
+	margin-left:100px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#products{
+	width:200px;
+	height:70px;
+	margin-left:60px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#gallery{
+	width:80px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#purchase{
+	width:340px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#contact{
+	width:170px;
+	height:70px;
+	margin-left:50px;
+	float:left;
+	color:white;
+	font-family:Candara;
+	font-size:35px;
+	margin-top:13px;
+}
+
+#home:hover,#products:hover,#gallery:hover,#purchase:hover,#contact:hover{
+	color:#ecf2d1;
+}
+
+/*Header end*/
+
+#back-background{
+	width:100%;
+	height:100%;
+	background-image:url(../images1/products/butterback1.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:auto;
+	margin-top:156px;
+}
+
+#back-background1{
+	width:1200px;
+	height:100%;
+	margin:auto;
+}
+
+#para-background{
+	width:500px;
+	height:600px;
+	border-radius:30px;
+	background-image:url(../images1/white.png);
+	margin-left:700px;
+	margin-top:50px;
+	float:left;
+}
+
+#m1{
+	width:300px;
+	height:60px;
+	font-size:60px;
+	margin-left:180px;
+	margin-top:20px;
+	color:#1b557b;
+	float:left;
+}
+
+#para1{
+	width:440px;
+	height:300px;
+	padding-right:30px;
+	padding-left:30px;
+	padding-bottom:30px;
+	padding-top:20px;
+	font-size:21px;
+	text-align:center;
+	margin-top:0px;
+	float:left;
+}
+
+#back-square{
+	width:1200px;
+	height:500px;
+	/*background:#102d3f;*/
+	margin:auto;
+}
+
+#video1{
+	width:800px;
+	height:auto;
+	margin-top:25px;
+	margin-left:200px;
+	float:left;
+	box-shadow:0px 0px 20px #083a5b;
+}
+
+/*Purchase Me Start*/
+
+#purchase1{
+	width:1200px;
+	height:400px;
+	margin:auto;
+}
+
+#first-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:160px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#first-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:160px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+#second-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:50px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#second-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:470px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+#theird-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:50px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#theird-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:780px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+#fourth-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:160px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#fourth-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:160px;
+	margin-top:230px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+#fifth-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:50px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#fifth-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:470px;
+	margin-top:230px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+#sixth-item{
+	width:150px;
+	height:90px;
+	background:#093A5B;
+	margin-left:50px;
+	margin-top:30px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:white;
+	text-align:center;
+}
+
+#sixth-item1{
+	width:150px;
+	height:90px;
+	background:white;
+	margin-left:780px;
+	margin-top:230px;
+	padding-left:60px;
+	padding-right:50px;
+	padding-bottom:50px;
+	padding-top:30px;
+	text-align:center;
+	font-size:30px;
+	float:left;
+	border-radius:20px;
+	color:#093A5B;
+	text-align:center;
+	display:none;
+	position:absolute;
+}
+
+a{
+	text-decoration:none;
+}
+
+#a1{
+	color:#093A5B;
+}
+
+#product-background1:hover #first-item1, #product-background2:hover #second-item1, #product-background3:hover #theird-item1, #product-background4:hover #fourth-item1, #product-background5:hover #fifth-item1, #product-background6:hover #sixth-item1{
+	display:inherit;
+	box-shadow:0px 0px 10px #093A5B;
+}
+/*End of the purchase*/
+
+#product1{
+	width:1200px;
+	height:500px;
+	margin:auto;
+}
+
+#milk-product1{
+	width:340px;
+	height:180px;
+	background-image:url(../images1/products/cup1.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:50px;
+	float:left;
+	border-radius:20px;
+	position:fixeds;
+}
+
+#milk-milk{
+	font-size:100px;
+	font-family:Centaur;
+	margin-left:75px;
+	margin-top:35px;
+}
+
+#milk-product1:hover, #curd-product1:hover, #icecream-product1:hover, #cheese-product1:hover, #butter-product1:hover, #yogurt-product1:hover{
+	opacity:0.4;
+	color:#093A5B;
+	box-shadow:0px 0px 10px #093A5B;
+}
+
+#curd-product1{
+	width:340px;
+	height:180px;
+	background:url(../images1/products/curd2.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:50px;
+	float:left;
+	border-radius:20px;
+}
+
+#curd-curd{
+	font-size:100px;
+	font-family:Centaur;
+	margin-left:70px;
+	margin-top:35px;
+}
+
+#icecream-product1{
+	width:340px;
+	height:180px;
+	background:url(../images1/products/icecream10.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:50px;
+	float:left;
+	border-radius:20px;
+}
+
+#icecream-icecream{
+	font-size:80px;
+	font-family:Centaur;
+	margin-left:25px;
+	margin-top:40px;
+}
+
+#cheese-product1{
+	width:340px;
+	height:180px;
+	background:url(../images1/products/cheese9.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:40px;
+	float:left;
+	border-radius:20px;
+}
+
+#cheese-cheese{
+	font-size:100px;
+	font-family:Centaur;
+	margin-left:45px;
+	margin-top:35px;
+}
+
+#butter-product1{
+	width:340px;
+	height:180px;
+	background:url(../images1/products/butter6.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:40px;
+	float:left;
+	border-radius:20px;
+}
+
+#butter-butter{
+	font-size:100px;
+	font-family:Centaur;
+	margin-left:60px;
+	margin-top:35px;
+}
+
+#yogurt-product1{
+	width:340px;
+	height:180px;
+	background:url(../images1/products/yogurt2.jpg);
+	background-size:cover;
+	margin-left:50px;
+	margin-top:40px;
+	float:left;
+	border-radius:20px;
+}
+
+#yogurt-yogurt{
+	font-size:100px;
+	font-family:Centaur;
+	margin-left:50px;
+	margin-top:35px;
+}
+
+#p2{
+	color:black;
+}
+
+#p2:hover{
+	color:#093A5B;
+}
+
+/*Footer Start*/
+
+#footer{
+	width:100%;
+	height:430px;
+	background:#ecf2d1;
+	float:left;
+}
+
+#footer1{
+	width:1200px;
+	height:430px;
+	margin:auto;
+}
+
+#facts{
+	width:500px;
+	height:300px;
+	text-align:center;
+	font-size:20px;
+	margin-top:20px;
+	margin-left:350px;
+	float:left;
+}
+
+#logo1{
+	width:90px;
+	height:90px;
+	margin-left:550px;
+	margin-top:20px;
+	float:left;
+}
+
+#social{
+	width:500px;
+	height:70px;
+	margin-top:30px;
+	margin-left:70px;
+	float:left;
+}
+
+#youtube{
+	width:50px;
+	height:50px;
+	float:left;
+}
+
+#facebook{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+}
+
+#pinterest{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#twitter{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+}
+
+#instagram{
+	width:50px;
+	height:50px;
+	float:left;
+	margin-left:20px;
+}
